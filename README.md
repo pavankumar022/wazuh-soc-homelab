@@ -1,3 +1,4 @@
+<img width="1112" height="383" alt="Screenshot 2026-07-11 095112" src="https://github.com/user-attachments/assets/63d64957-f5aa-4566-a15f-7c88c070ed11" />
 # Wazuh SOC Home Lab
 
 A complete, hands-on Security Operations Center (SOC) lab built using Wazuh SIEM.
